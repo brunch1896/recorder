@@ -1,4 +1,3 @@
 pyaudio
 wave
 keyboard
-requests
