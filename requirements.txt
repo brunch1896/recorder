@@ -1,1 +1,4 @@
-openpyxl
+pyaudio
+wave
+keyboard
+requests
